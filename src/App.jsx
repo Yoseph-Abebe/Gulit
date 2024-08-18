@@ -1,11 +1,5 @@
-import "./App.css";
-
-function App() {
-  return (
-    <>
-      <h1>Hello</h1>
-    </>
-  );
+import Card from "./Card"
+function App(){
+   return <Card />
 }
-
-export default App;
+export default App
